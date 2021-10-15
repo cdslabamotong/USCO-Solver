@@ -1,0 +1,167 @@
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 3.3756
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9185
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.8860
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.5344
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.7328
+fail ratio: 0.0000
+mean_avg_ratios: 2.6895
+ std_avg_ratios: 0.4754
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:16, featureGenMethod: uniform, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.5555
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.1813
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0556
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.2856
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.0087
+fail ratio: 0.0000
+mean_avg_ratios: 1.2173
+ std_avg_ratios: 0.1949
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:6400, featureGenMethod: true, c:0.0001 
+trainNum:0, testNum:10 
+===============================================================
+data fetched
+Training 1-slack dual structural SVM
+iteration 0
+self._find_new_constraint RUNNING
+self._find_new_constraint Done
+constrains retrieved 
+computing primal objective
+updating cache tolerance if cache_tol is auto
+cutting plane objective: -9.846492938828345e-09, primal objective 24640312.664100002
+computing final objective
+C:\Users\guang\Documents\Python Scripts\USCO\code and data\ssp/pre_train/SSP/17-05-2021-21-45-41/
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.8834
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8139
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.8192
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7955
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.2027
+fail ratio: 0.0000
+mean_avg_ratios: 1.9030
+ std_avg_ratios: 0.1528
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: true, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+Training 1-slack dual structural SVM
+iteration 0
+self._find_new_constraint RUNNING
+self._find_new_constraint Done
+constrains retrieved 
+computing primal objective
+updating cache tolerance if cache_tol is auto
+cutting plane objective: -4.0023102787917016e-08, primal objective 137847.03620000003
+computing final objective
+C:\Users\guang\Documents\Python Scripts\USCO\code and data\ssp/pre_train/SSP/17-05-2021-21-51-03/
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 2.2202
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6893
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.0203
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6838
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7622
+fail ratio: 0.0000
+mean_avg_ratios: 1.8752
+ std_avg_ratios: 0.2117
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing random Started
+Y_pred_total/Y_true_total: 1.8942
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.4683
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.6274
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.7224
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5454
+fail ratio: 0.0000
+mean_avg_ratios: 1.6515
+ std_avg_ratios: 0.1479
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing random Started
+Y_pred_total/Y_true_total: 1.8491
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.0109
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 2.2817
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.5502
+fail ratio: 0.0000
+Y_pred_total/Y_true_total: 1.9138
+fail ratio: 0.0000
+mean_avg_ratios: 1.9212
+ std_avg_ratios: 0.2370
+mean_avg_fail_ratios: 0.0000
+ std_avg_fail_ratios: 0.0000
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:1000 
+===============================================================
+data fetched
+===============================================================
+Testing NB Started
+Y_pred_total/Y_true_total: 3.4366
+fail ratio: 0.1500
+Y_pred_total/Y_true_total: 1.4739
+fail ratio: 0.0600
+Y_pred_total/Y_true_total: 2.5045
+fail ratio: 0.1100
+Y_pred_total/Y_true_total: 1.4438
+fail ratio: 0.1600
+Y_pred_total/Y_true_total: 1.8055
+fail ratio: 0.1300
+mean_avg_ratios: 2.1329
+ std_avg_ratios: 0.7555
+mean_avg_fail_ratios: 0.1220
+ std_avg_fail_ratios: 0.0354
+col
+featureNum:160, featureGenMethod: uniform, c:0.0001 
+trainNum:160, testNum:100 
+===============================================================
