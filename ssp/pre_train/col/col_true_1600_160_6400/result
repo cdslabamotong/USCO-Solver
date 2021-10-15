@@ -1,0 +1,13 @@
+===============================================================
+Testing USCO Started
+Y_pred_total/Y_true_total: 1.0188
+Y_pred_total/Y_true_total: 1.0126
+Y_pred_total/Y_true_total: 1.0162
+Y_pred_total/Y_true_total: 1.0146
+Y_pred_total/Y_true_total: 1.0168
+mean_avg_ratios: 1.0158
+ std_avg_ratios: 0.0021
+col
+featureNum:1600, featureGenMethod: true, c:0.0001 
+trainNum:160, testNum:6400 
+===============================================================
