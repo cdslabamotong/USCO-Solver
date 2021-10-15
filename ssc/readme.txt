@@ -1,0 +1,1 @@
+This folder contains source code used for the stochastic set cover problem, including the implementations of USCO-Solver, GNN, DSPN, and random.
